@@ -7,3 +7,4 @@ Sistema simples de estoque em Python.
 
 :D Bora commitar!!
 
+setando origem e push repositorio
